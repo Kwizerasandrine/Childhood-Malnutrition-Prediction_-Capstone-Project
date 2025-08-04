@@ -286,10 +286,11 @@ KPI Cards:	Summary metrics
 
   ✔️ Use tooltips to explain chart meanings
 
-  <img width="1600" height="825" alt="image" src="https://github.com/user-attachments/assets/0b708992-a075-4a55-9ed0-5a616c0b4768" />
+
+<img width="1865" height="922" alt="image" src="https://github.com/user-attachments/assets/006df7eb-b9f3-454d-a2a7-145cf860389c" />
 
 
-  <img width="1600" height="830" alt="image" src="https://github.com/user-attachments/assets/e1e338a5-2d15-40b0-9d59-48f508cdc8b0" />
+
 
 
 
